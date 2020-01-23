@@ -1,0 +1,44 @@
+name: cube_store
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  flutter_svg: ^0.15.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.7.3"
+
+flutter_icons:
+  android: "launcher_icon" 
+  ios: true
+  image_path: "assets/images/TODO.png"
+  adaptive_icon_background: "#ffffff"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/
+  - assets/images/
+
+  fonts:
+    - family: SofiaPro
+      fonts:
+        - asset: assets/fonts/SofiaPro/sofiapro-light.otf
+          weight: 300
+        - asset: assets/fonts/SofiaPro/sofiapro-regular.woff
+          weight: 400
+        - asset: assets/fonts/SofiaPro/sofiapro-medium.woff
+          weight: 500
+        - asset: assets/fonts/SofiaPro/sofiapro-bold.woff
+          weight: 700
