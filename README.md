@@ -19,7 +19,7 @@ I hope you enjoy and can take something new from here!
 
 ![App preview](doc/CubeStorePresentation.jpg)
 
-[![Get it on Google Play](doc/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.interestinate.flutter_package_manager)
+[![Get it on Google Play](doc/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.interestinate.flutter_cubestore)
 
 ## Version history
 
